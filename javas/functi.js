@@ -9,6 +9,8 @@ console.log(nav_list);
 
 console.log(__dirname);
 
+console.log("hey there i am pandey ji");
+
 burger.addEventListener('click', ()=>{
 
     rightNav.classList.toggle('hid-kar');
