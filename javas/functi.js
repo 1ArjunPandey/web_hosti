@@ -7,7 +7,7 @@ rightNav = document.querySelector('.rightNav');
 
 console.log(nav_list);
 
-
+console.log(__dirname);
 
 burger.addEventListener('click', ()=>{
 
